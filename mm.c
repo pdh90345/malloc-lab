@@ -26,9 +26,9 @@ team_t team = {
     /* Team name */
     "ateam",
     /* First member's full name */
-    "Harry Bovik",
+    "pdh90345",
     /* First member's email address */
-    "bovik@cs.cmu.edu",
+    "pdh90345",
     /* Second member's full name (leave blank if none) */
     "",
     /* Second member's email address (leave blank if none) */
